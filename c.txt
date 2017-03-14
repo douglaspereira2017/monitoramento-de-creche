@@ -1,0 +1,44 @@
+DESENVOLVIMENTO: nativo ou hibrido? android Java | híbrido | apple objectve C | windows c#
+
+DESIGNER
+
+
+LINGUAGEM: SDK
+
+DESENVOLVEDORES
+
+plataformas: android
+
+FRAMEWORK - phonegap e ionic ou html?   phonegape
+DB
+
+TESTES
+
+git e github (controle de versão)
+
+
+
+
+nome
+idade
+nome dos pais
+endereço
+
+
+PLAYSTORE?????
+
+
+
+
+
+
+
+TEMA:  Hyper-Threading Intel®
+1- o que é? 
+2- o que é threads como funciona?
+3- quais os processadores que utilizam essa tecnologia?
+4- como funciona com jogos?
+
+
+
+
